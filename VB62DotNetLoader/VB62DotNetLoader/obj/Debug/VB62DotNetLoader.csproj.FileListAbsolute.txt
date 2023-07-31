@@ -1,0 +1,13 @@
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader\VB62DotNetLoader\bin\Debug\VB62DotNetLoader.dll
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader\VB62DotNetLoader\bin\Debug\VB62DotNetLoader.pdb
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader\VB62DotNetLoader\bin\Debug\VB62DotNetLoader.tlb
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader\VB62DotNetLoader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader\VB62DotNetLoader\obj\Debug\VB62DotNetLoader.Properties.Resources.resources
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader\VB62DotNetLoader\obj\Debug\VB62DotNetLoader.ui.vb62dnl.Forms.FormAbout.resources
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader\VB62DotNetLoader\obj\Debug\VB62DotNetLoader.ui.vb62dnl.Forms.FormConfigurationManager.resources
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader\VB62DotNetLoader\obj\Debug\VB62DotNetLoader.ui.vb62dnl.Forms.FormProgressDialog.resources
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader\VB62DotNetLoader\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader\VB62DotNetLoader\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader\VB62DotNetLoader\obj\Debug\VB62DotNetLoader.dll.licenses
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader\VB62DotNetLoader\obj\Debug\VB62DotNetLoader.dll
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader\VB62DotNetLoader\obj\Debug\VB62DotNetLoader.pdb

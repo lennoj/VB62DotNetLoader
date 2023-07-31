@@ -1,0 +1,6 @@
+[History]
+1=#P0#=mb	#P1#=BTNShowConfig_Click	#P2#=Project1/Form1/BTNShowConfig_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211008102408	#P7#=0	#P8#=0	.
+2=#P0#=mb	#P1#=BTNLoadAllPlugin_Click	#P2#=Project1/Form1/BTNLoadAllPlugin_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210621172107	#P7#=0	#P8#=1	.
+3=#P0#=mb	#P1#=Form_Load	#P2#=Project1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210621172130	#P7#=0	#P8#=3	.
+4=#P0#=mb	#P1#=BTNLoadLibrary_Click	#P2#=Project1/Form1/BTNLoadLibrary_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210621170212	#P7#=0	#P8#=-1	.
+5=#P0#=mb	#P1#=BTNLoadLib_Click	#P2#=Project1/Form1/BTNLoadLib_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210621165946	#P7#=0	#P8#=1	.

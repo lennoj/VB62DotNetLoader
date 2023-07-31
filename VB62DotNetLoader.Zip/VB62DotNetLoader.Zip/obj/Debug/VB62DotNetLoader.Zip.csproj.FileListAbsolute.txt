@@ -1,0 +1,5 @@
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader.Zip\VB62DotNetLoader.Zip\bin\Debug\VB62DotNetLoader.Zip.dll
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader.Zip\VB62DotNetLoader.Zip\bin\Debug\VB62DotNetLoader.Zip.pdb
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader.Zip\VB62DotNetLoader.Zip\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader.Zip\VB62DotNetLoader.Zip\obj\Debug\VB62DotNetLoader.Zip.dll
+C:\Users\VMJPMENDOZA\Desktop\VB62DotNetLoader\VB62DotNetLoader.Zip\VB62DotNetLoader.Zip\obj\Debug\VB62DotNetLoader.Zip.pdb
